@@ -4,7 +4,7 @@
 
 I bring quant-grade statistical rigor to LLM engineering: evals, error bars, and not shipping on noise. The discipline comes from running multi-agent systems where a wrong answer does not fail a unit test, it costs real money. PhD in Finance (ML time series).
 
-I work at the intersection of AI engineering and quantitative finance: multi-agent orchestration, LLM evaluation and reliability, and production systems that have to be right, not just plausible. Currently also building Thousand Token Wood, a five-agent small-model economy.
+I work at the intersection of AI engineering and quantitative finance: multi-agent orchestration, LLM evaluation and reliability, and production systems that have to be right, not just plausible.
 
 ---
 
@@ -14,6 +14,11 @@ I work at the intersection of AI engineering and quantitative finance: multi-age
 Eval gates and reliability primitives for LLM pipelines, with a confidence interval on every metric and a statistically honest regression gate. The full eval surface (deterministic gates, calibrated LLM-as-judge, agentic-trace evals, multiple-comparisons-corrected CI gating), in CI, with the stats done right. Pure standard library at the core, fully offline-testable, deterministic under a seed.
 
 `pip install llm-evalgate`  ·  [GitHub](https://github.com/LesterALeong/llm-evalgate)  ·  [PyPI](https://pypi.org/project/llm-evalgate/)
+
+### Thousand Token Wood
+Five small-model (Qwen2.5-3B) creature-agents in an emergent economy: an experiment in multi-agent dynamics under real economic pressure. Served on vLLM / Modal with a Gradio interface. Built for the Hugging Face build-small hackathon.
+
+[Live demo](https://huggingface.co/spaces/build-small-hackathon/thousand-token-wood-sim)
 
 ---
 
@@ -34,4 +39,5 @@ Python · LLMs · multi-agent systems · LLM-as-judge and evals · RAG · agent 
 
 Open to conversations about hard problems in agent reliability and AI for finance.
 
+- LinkedIn: https://www.linkedin.com/in/lester-a-leong
 - Medium: https://medium.com/gradient-growth
