@@ -40,4 +40,5 @@ Python · LLMs · multi-agent systems · LLM-as-judge and evals · RAG · agent 
 Open to conversations about hard problems in agent reliability and AI for finance.
 
 - LinkedIn: https://www.linkedin.com/in/lester-a-leong
+- X: https://x.com/RealLesterLeong
 - Medium: https://medium.com/gradient-growth
