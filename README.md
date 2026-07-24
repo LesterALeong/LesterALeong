@@ -16,7 +16,7 @@ Eval gates and reliability primitives for LLM pipelines, with a confidence inter
 `pip install llm-evalgate`  ·  [GitHub](https://github.com/LesterALeong/llm-evalgate)  ·  [PyPI](https://pypi.org/project/llm-evalgate/)
 
 ### anachron
-A look-ahead leakage detector for LLM agents: does an agent use information it could not have had at the time? It scores the leakage rate of an agent's tool calls under an as-of-date constraint, graded with the point-in-time rigor of quantitative backtesting — survivorship, restatements, transaction cost. The discipline that keeps a trading backtest honest, generalized to agents.
+A look-ahead leakage detector for LLM agents: does an agent use information it could not have had at the time? It scores the leakage rate of an agent's tool calls under an as-of-date constraint, graded with the point-in-time rigor of quantitative backtesting — survivorship and restatement leakage shipped, transaction cost on the roadmap. The discipline that keeps a trading backtest honest, generalized to agents.
 
 [GitHub](https://github.com/LesterALeong/anachron)
 
@@ -25,7 +25,7 @@ Five small-model (Qwen2.5-3B) creature-agents in an emergent economy: an experim
 
 [Live demo](https://huggingface.co/spaces/build-small-hackathon/thousand-token-wood-sim)
 
-**Also building, in the same spirit:** [finance-paper-replication](https://github.com/LesterALeong/finance-paper-replication) — replicating quant research papers and publishing the honest results — and [finance-research-factory](https://github.com/LesterALeong/finance-research-factory), a multi-agent q-fin research pipeline with alpha-protection built in.
+**Also building, in the same spirit** (private until release): finance-paper-replication — replicating quant research papers and publishing the honest results — and finance-research-factory, a multi-agent q-fin research pipeline with alpha-protection built in.
 
 ---
 
